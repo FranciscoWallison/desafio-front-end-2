@@ -1,5 +1,3 @@
-Aqui está a documentação para o projeto com a **NASA API** no mesmo formato:
-
 
 # Dashboard da NASA com [Reactjs e Vite](https://pt.vitejs.dev/guide/)
 
